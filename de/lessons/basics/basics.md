@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Basics
+title: Grundlagen
 category: basics
 order: 1
 lang: de
